@@ -1,0 +1,65 @@
+site_name: Cyberz
+theme:
+  name: material
+  font:
+    text: Roboto Mono
+  favicon: images/cyberz_4_small.jpg
+  icon:
+    logo: cyberz-main
+  palette:
+    - scheme: 'slate'
+      primary: 'black'
+      accent: 'blue'
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.instant
+    - header.autohide
+    - search.highlight
+    - search.suggest
+    - search.share
+    - navigation.indexes
+  custom_dir: overrides
+
+plugins:
+  - glightbox
+
+nav:
+  - About Cyberz: index.md
+  - The Game:
+      - ℹ️ Overview: overview.md
+      - 🕹️ Gameplay: gameplay.md
+      - 💼 Job Missions: missions.md
+      - 🤖 Bots: bots.md
+      - 🆓 Free 2 Play: free2play.md
+  - Lore:
+      - 📖 Game Lore: lore.md
+      - 💰 La'Brett: laBrett.md
+      - 💻 Syd the Skid: sydTheSkid.md
+      - 🏹 Hunter: hunter.md
+  - $BYTE: byte.md
+  - Roadmap: roadmap.md
+  - The Team: team.md
+
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      options:
+        custom_icons:
+          - overrides/.icons
+
+extra:
+  social:
+    - icon: cyberz-main
+      link: https://x.com/CyberzGame
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/cyberzgame
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/CyberzGame
