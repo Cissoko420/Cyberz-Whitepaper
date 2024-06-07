@@ -1,4 +1,5 @@
 site_name: Cyberz
+site_url: https://cyberz-whitepaper.vercel.app/
 theme:
   name: material
   font:
