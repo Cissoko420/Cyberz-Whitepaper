@@ -11,3 +11,5 @@
 5.  Use $BYTE to:
     - Upgrade Bots for better stats
     - Swap for Cyberz NFT using SPL-404 technology
+
+![zoomify](images/free2play.png)
