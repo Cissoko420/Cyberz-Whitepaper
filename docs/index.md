@@ -27,5 +27,6 @@ Cyberz is the first web3 idle game integrated with SPL-404 Hybrid model enhancin
 - **Website:** <https://www.cyberzgame.com>
 - **Discord:** <https://discord.gg/cyberzgame>
 - **Twitter:** <https://twitter.com/CyberzGame>
+- **Telegram:** <https://t.me/cyberzportal>
 
 ---
