@@ -21,5 +21,5 @@
 > ## Q4+
 
 - [ ] Launch **PVP** mode
-- [ ] **Mobile** version
+- [x] **Mobile** version
 - [ ] [**REDACTED**]
