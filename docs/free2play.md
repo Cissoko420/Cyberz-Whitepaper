@@ -2,7 +2,7 @@
 
 1.  Mint common Bot for low cost (~2$)
 
-2.  Destroy and re-mint for prederred base stats
+2.  Destroy and re-mint for preferred base stats
 
 3.  Farm resources and earn BIT
 

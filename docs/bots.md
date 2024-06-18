@@ -11,7 +11,7 @@
     <br>
     <br>
     <br>
-    • Beware! Weaker bots can be destroyed
+    • Beware! Weaker Bots can be destroyed
     <br>
     <br>
     <br>
