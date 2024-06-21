@@ -1,7 +1,7 @@
 # 📖 **Game Lore**
 
 <div style="text-align: center;">
-  <img src="../images/Artwork.png" alt="La'Brett" style="  height: auto; min-width: 800px;">
+  <img src="../images/map.png" alt="Lore" style="  height: auto; min-width: 800px;">
 </div>
 
 ---
