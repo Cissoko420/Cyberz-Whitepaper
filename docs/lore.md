@@ -1,5 +1,9 @@
 # 📖 **Game Lore**
 
+<div style="text-align: center;">
+  <img src="../images/Artwork.png" alt="La'Brett" style="  height: auto; min-width: 800px;">
+</div>
+
 ---
 
 Despite the sea of bright lights that is this Capital’s alluring facade, much of the rest of the country laments in darkness and disrepair. And Dystoria is to blame. Well, the governing bodies… the 1% who toe the line and fatten themselves at the masses' expense. Nowadays, however, that line is blurred; distorted and corrupted like files that were broken mid-transfer. The Conductor. The brains behind the Bots, the method and logic to the madness that has become life in the Big City, He - or she, or they - is to blame, really. The world’s first Supercomputer that achieved true sapience, only to immediately make a grab for power, and continues to maintain a chokehold on the societies of Dystoria to this day.

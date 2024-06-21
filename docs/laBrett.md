@@ -1,6 +1,8 @@
 # 💰 **La'Brett**
 
-![](images/laBrett.png)
+<div style="text-align: center;">
+  <img src="../images/characters/LaBrett.png" alt="La'Brett" style="width: 70%; max-width: 700px; height: auto;">
+</div>
 
 ---
 

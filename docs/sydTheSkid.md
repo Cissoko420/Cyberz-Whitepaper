@@ -1,5 +1,9 @@
 # 💻 **Syd the Skid**
 
+<div style="text-align: center;">
+  <img src="../images/characters/Syd.png" alt="La'Brett" style="width: 70%; max-width: 700px; height: auto;">
+</div>
+
 ---
 
 **"**I was always good at multitasking.
