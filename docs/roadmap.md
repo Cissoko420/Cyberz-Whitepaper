@@ -4,7 +4,7 @@
 
 - [x] Deploy **beta version** for testers
 - [x] Establish **community partnerships**
-- [ ] Launch **presale/mint** for Cyberz NFTs
+- [ ] Launch **mint** for Cyberz NFTs
 
 > ## Q2-Q3
 
