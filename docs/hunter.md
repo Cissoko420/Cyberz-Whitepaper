@@ -1,5 +1,9 @@
 # 🏹 **Hunter**
 
+<div style="text-align: center;">
+  <img src="../images/characters/HuntertheHunter.png" alt="La'Brett" style="width: 70%; max-width: 700px; height: auto;">
+</div>
+
 ---
 
 <br>
